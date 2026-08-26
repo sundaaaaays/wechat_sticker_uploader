@@ -40,10 +40,11 @@ pip install pillow
 
 ## 数据准备
 
-把要上传的 GIF 放到某个目录（如 `D:\emotes`），然后：
+素材 GIF 已放在本仓库的 [`emotes/`](emotes/) 目录下（`D:\夸克网盘\cr_emotes` 的副本）。
+也可把你自己的 GIF 放到任意目录，然后用 `--src` 指定：
 
 ```powershell
-python classify.py --src "D:\emotes" --out manifest.json
+python classify.py --src "emotes" --out manifest.json
 ```
 
 - 自动识别每个 GIF 的角色（`弓箭手`、`飞龙宝宝`…）与含义词（`射箭`、`哭泣`…）。
