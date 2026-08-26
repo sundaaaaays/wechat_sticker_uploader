@@ -1,0 +1,31 @@
+{
+  "browser": "edge",
+
+  "attach_to_running": true,
+  "debugger_address": "127.0.0.1:9222",
+  "profile_dir": "edge_attach",
+  "headless": false,
+  "base_url": "https://sticker.weixin.qq.com/",
+
+  "copyright_holder": "SY工作室",
+  "album_intro": "皇室战争经典角色的高清动态表情，包含日常互动、战斗情绪等多种场景，为聊天增添乐趣。",
+
+  "banner": "banner.png",
+  "cover": "cover.png",
+  "icon": "icon.png",
+
+  "style": ["搞笑", "日常"],
+  "theme": ["游戏"],
+  "type": "卡通表情/其他",
+  "up_region": "中国大陆",
+  "download_region": "中国大陆",
+  "accept_tip": "否",
+  "default_meaning": "表情",
+
+  "max_file_kb": 500,
+  "min_sleep": 0.6,
+  "max_sleep": 1.8,
+  "max_retries": 3,
+
+  "final_submit": false
+}
