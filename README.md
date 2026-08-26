@@ -112,3 +112,7 @@ python upload.py --final-submit           # 真正提交送审（不可逆）
 - 本工具仅供学习与自动化你**合法拥有**的素材；请勿用于侵权内容。
 - 上传前请确认你的表情素材不侵犯第三方版权，或已取得游戏/作品版权方授权。
 - 平台规则可能变化，选择器（`upload.py` 内 `class Sel`）可能需按实际页面微调。
+- [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)
+[DSH Codex Desktop](https://github.com/MichengAI/dsh-codex-desktop)
+[Apache License 2.0](LICENSE)
+[Semidia/dsh-session-manager](https://github.com/Semidia/dsh-session-manager)
