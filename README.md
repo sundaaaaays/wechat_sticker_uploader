@@ -40,7 +40,7 @@ pip install pillow
 
 ## 数据准备
 
-素材 GIF 已放在本仓库的 [`emotes/`](emotes/) 目录下（`D:\夸克网盘\cr_emotes` 的副本）。
+素材 GIF 已放在本仓库的 [`emotes/`](emotes/) 目录下。
 也可把你自己的 GIF 放到任意目录，然后用 `--src` 指定：
 
 ```powershell
